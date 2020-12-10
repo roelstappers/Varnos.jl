@@ -1,0 +1,4 @@
+name = "Varnos"
+uuid = "9d711667-2b15-41a5-b950-51c360f7163a"
+authors = ["Roel Stappers <roels@met.no>"]
+version = "0.1.0"
